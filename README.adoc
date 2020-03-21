@@ -57,6 +57,10 @@ NOTE: Make sure you have claimed the issue.
   - https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+first-timers-only%22[Beginners^]
   - https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+ideal-for-contribution%22[Non-beginners^]
 
+* https://github.com/spring-cloud/spring-cloud-gcp[spring-cloud-gcp^]
+  - https://github.com/spring-cloud/spring-cloud-gcp/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22[Beginners^]
+  - https://github.com/spring-cloud/spring-cloud-gcp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
+
 * https://github.com/spring-projects/spring-security[spring-security^]
   - https://github.com/spring-projects/spring-security/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+first-timers-only%22[Beginners^]
   - https://github.com/spring-projects/spring-security/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+ideal-for-contribution%22[Non-beginners^]
