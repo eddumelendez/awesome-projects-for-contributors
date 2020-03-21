@@ -40,6 +40,9 @@ NOTE: Make sure you have claimed the issue.
   - https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22[Beginners^]
   - https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
 
+* https://github.com/prometheus/prometheus[promethus^]
+  - https://github.com/prometheus/prometheus/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22[Beginners^]
+
 === Java
 
 * https://github.com/eclipse/eclipse-collections[eclipse-collections^]
