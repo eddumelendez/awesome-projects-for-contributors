@@ -56,6 +56,10 @@ NOTE: Make sure you have claimed the issue.
   - https://github.com/micronaut-projects/micronaut-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22info%3A+good+first+issue%22[Beginners^]
   - https://github.com/micronaut-projects/micronaut-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
 
+* https://github.com/pmd/pmd[pmd^]
+  - https://github.com/pmd/pmd/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22[Beginners^]
+  - https://github.com/pmd/pmd/issues?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted[Non-Beginners^]
+
 * https://github.com/spring-projects/spring-boot[spring-boot^]
   - https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+first-timers-only%22[Beginners^]
   - https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+ideal-for-contribution%22[Non-beginners^]
