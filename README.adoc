@@ -2,6 +2,31 @@
 
 List of projects for contributors (beginners)
 
+== How to start
+
+Look for a project to contribute in the <<languages, list below>>.
+
+I would recommend to install https://github.com/cli/cli#installation-and-upgrading[github cli^] and perform `gh repo fork [repository]`. For instance, if you want to contribute to this project, the steps are the following:
+
+. Fork and clone the repository
+
+  gh repo fork eddumelendez/awesome-projects-for-contributors
+  cd awesome-projects-for-contributors
+  git remote add upstream https://github.com/eddumelendez/awesome-projects-for-contributors.git
+
+. Create your own branch
+
+  git checkout -b [branch-name]
+
+. Start hacking
+. Commit your changes
+
+  git commit -am "Insert your message"
+
+. Create your PR (Pull request)
+
+  gh pr create
+
 == Languages
 
 * <<java, Java>>
