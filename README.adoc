@@ -36,6 +36,10 @@ NOTE: Make sure you have claimed the issue.
 
 === Go
 
+* https://github.com/kubernetes/kubernetes[kubernetes^]
+  - https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22[Beginners^]
+  - https://github.com/kubernetes/kubernetes/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
+
 === Java
 
 * https://github.com/eclipse/eclipse-collections[eclipse-collections^]
