@@ -31,7 +31,10 @@ NOTE: Make sure you have claimed the issue.
 
 == Languages
 
+* <<go, Go>>
 * <<java, Java>>
+
+=== Go
 
 === Java
 
