@@ -27,6 +27,8 @@ I would recommend to install https://github.com/cli/cli#installation-and-upgradi
 
   gh pr create
 
+NOTE: Make sure you have claimed the issue.
+
 == Languages
 
 * <<java, Java>>
