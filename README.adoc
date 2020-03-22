@@ -57,14 +57,14 @@ NOTE: Make sure you have claimed the issue.
   - https://github.com/junit-pioneer/junit-pioneer/labels/up-for-grabs[Beginners & Non-beginners^]
 
 * junit5
-  - https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3Aup-for-grabs[Beginners & Non-beginners]
+  - https://github.com/junit-team/junit5/issues?q=is%3Aopen+is%3Aissue+label%3Aup-for-grabs[Beginners & Non-beginners^]
 
 * micronaut-core
   - https://github.com/micronaut-projects/micronaut-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22info%3A+good+first+issue%22[Beginners^]
   - https://github.com/micronaut-projects/micronaut-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
 
 * mockito
-  - https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22please+contribute%22[Beginners & Non-beginners]
+  - https://github.com/mockito/mockito/issues?q=is%3Aopen+is%3Aissue+label%3A%22please+contribute%22[Beginners & Non-beginners^]
 
 * pmd
   - https://github.com/pmd/pmd/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22[Beginners^]
