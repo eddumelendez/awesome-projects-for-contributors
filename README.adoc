@@ -49,6 +49,10 @@ NOTE: Make sure you have claimed the issue.
   - https://github.com/eclipse/eclipse-collections/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+label%3A%22good+first+issue%22[Beginners^]
   - https://github.com/eclipse/eclipse-collections/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22[Non-beginners^]
 
+* jhipster
+  - https://github.com/jhipster/generator-jhipster/labels/status%3A%20good%20first%20issue[Beginners^]
+  - https://github.com/jhipster/generator-jhipster/labels/status%3A%20help%20wanted[Non-beginners^]
+
 * jib
   - https://github.com/GoogleContainerTools/jib/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22[Beginners^]
   - https://github.com/GoogleContainerTools/jib/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22[Non-beginners^]
