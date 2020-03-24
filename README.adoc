@@ -1,6 +1,6 @@
 = Awesome projects for contributors
 
-List of projects for contributors (`beginners` an `non-beginners`)
+List of projects for contributors (`beginners` and `non-beginners`)
 
 == How to start
 
